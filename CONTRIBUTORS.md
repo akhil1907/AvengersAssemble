@@ -128,4 +128,8 @@
 - Bio: Love Programming 
 - Github: [Manas Abhilash](https://github.com/geekymanas)
 
+#### Name: [Akhil Jain](https://github.com/akhil1907)
+- Place: Allahabad,UP,India
+- Bio: An Ingenuitive Sophomore
+- Github: [Akhil Jain](https://github.com/akhil1907)
 
